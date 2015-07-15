@@ -1,1 +1,2 @@
 This is the new contents of my first file.
+More new content!
